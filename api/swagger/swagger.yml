@@ -1,0 +1,13 @@
+swagger: '2.0'
+info:
+  version: 1.0.0
+  title: test
+basePath: /api
+host: localhost:3000
+schemes: 
+      -http
+consume:
+     -application/json
+produce:
+      -application/json
+paths:      

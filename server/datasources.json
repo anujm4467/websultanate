@@ -1,0 +1,11 @@
+{
+  "db": {
+    "name": "db",
+    "projectId": "test-865ff",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6C5ys1Bb3pgoH\nhpcumr/VgEGfwkLFg1AZbUkmp9g5L4bkA44d6pQ4SE91iWKSYBnpi4hcEJvXXgrO\n3EodhnnlAZ/45RiVFP2Nu/+GpF1K9QQh5WA0luRELsqdckKF8NlzUYhTzQAY5OSm\nRjOG7P1JlCWBDf//ySRtFlE+65Lttp4VqeXkyohlfh4oqBmui2LDEFkHGDQKXbuq\nU/W/j3ikTgLtu0S7iadCCABAeDf8jVqA38k5BCoFGMU+ctooBGbXcWHm8pXVF+Vu\nUQp5fu9fjc3KJ0OhYgPu2bH+79meyyyHcfOtCot0aK4X9jCbp2Q4VKDNi7ydPUMW\nDiVCDawJAgMBAAECggEAEWB8x4q+w25LgQTx8X0sPkuOtZaOKIcZj+psevMR59N3\n2Ku5VjN/GRut6kdFAPF/chghiiHWAIFs5oHeXVAeagSjFbsGNwSBI0AkP4XyHcpx\nUp4rRHY0h2bMb3TI4FxM3y/GGTesUubsMVicvvU7OihfcWSmnNRDdfnv6D3WGSQ8\nyuz5+xFl2uwiQiGOBlATj80qzhGLClBKbCb53LYi2/3L50zNMz116Yx9hhtw8ddB\nVboomN4KznFguqabQ3sx4vopr3lznT8rsdrPbfXKnD63aP+ms8jVnrl19QNkYAsQ\nWeviqJ0s2RIAt3bqOsEnWeyHE6YLAZNVgIidubck4QKBgQDtDWEMTD6dd7RQW9m2\nWdkAhoeZQLZ9xMjtSVffWocTzPDDU0M6ySmusSlCKvKcrkxr/NpCId9+MjnWDLCB\nnUWFOVwHgqgedXwF752bK6JPx67HVEy5JPQDL2TZImpHcLztcnkQUkm+oPZw4yIn\nEtyjCAv0Pu8IrBZim89/2MOt0QKBgQDI6oRtvH9Kcj97a+SD+mOzqFnXgl2Gec1x\njEOHS2LEa0UfMAujMIaAzJMK4p25nU8SCzhr37v+vvdvQCxuA38elgqJEb1rZM3C\nEoov1tFsOXS1XAQPs2RgpGT/5yPpdtEzrPvKlfKvL2Wo4z/4cXM1EqMyW5BemahP\nrRA5T0gQuQKBgE1VRAfDB9pPJt/gVxIKFaT6Plpcpiw5emMOvj/7RH3NKe5Ox2vy\nHEsFOLSBVkyPABdqkblpW4PL1tphoWNnbzqbD87TbQ0ivqchGIV6oqTsO7SDZ9Qu\nnfw8BeZgN9O+j6PW6G/OqIgr8rm5H3cnzBrTkTLJJSnrGhJpSjQm/w9BAoGAAYOz\nB9i55OfDjrybdls20S3dr4AuEEtuvwJdp/Frhyt/0+Ja1BoTiXkBSr22jqWe6PXo\nsPd4xUzPNKl5LEMefC6JWcsmcF7MJkBZhk7KOVSdiphs92lUwl263Sry3Fmm7grJ\nwxcqQyPKUmGUI91HDwla7ZA/IFdsK12Ul7n/QxECgYEA6Ph2KGzZCLTfcUnGk3qj\nxhoa7LZTwajVZ7/xoO5o7YXX90JdfNT3/9kGLuU1Yo9pwn171t5wW8WqRDfKeuAS\n1TFOdxstvgpUdH9Zz8Ss1Szne3AN/36BUd8n63hyyEtVW2Tkl5EuNCSN7beTIZA/\n25Ymg3CJ0p7c7jhhwR11kiI=\n-----END PRIVATE KEY-----\n",
+    "clientEmail": "firebase-adminsdk-5mnhe@test-865ff.iam.gserviceaccount.com",
+    "client_id": "100495274911929264862",
+    "private_key_id": "8ece211025863dd74d831492ad3756aad596ac48",
+    "connector": "loopback-connector-firestore"
+  }
+}
